@@ -80,6 +80,16 @@
 <!-- ======= 6. Get in Touch ======= -->
 <h2 align="center">📭 Get in Touch</h2>
 <p align="center">
-  <a href="mailto:stifhlife@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48"/></a>
-  <a href="https://www.linkedin.com/in/stifhbl"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
+  <!-- Email -->
+  <a href="mailto:stifhlife@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/stifhbl">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+  </a>
+  <!-- CV / Résumé (LaTeX icon) -->
+  <a href="https://github.com/S4WLAND/S4WLAND/raw/main/Stifh_BL_cv.pdf">
+    <img src="https://skillicons.dev/icons?i=latex" height="48" alt="Download CV (PDF)"/>
+  </a>
 </p>
