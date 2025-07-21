@@ -8,62 +8,78 @@
   </a>
 </p>
 
+<!-- ======= 2. Tech Stack ======= -->
+<h2 align="center">🧰 Tech Stack</h2>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=S4WLAND.S4WLAND" alt="Visitor Badge" />
-</p>
-
----
-
-## 🧰 Core Skills  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Rest Framework" />
-</p>
-
----
-
-## 🎯 Projects at a Glance  
-<p align="center">
-  <a href="https://stifhbl.netlify.app" style="margin:0 1rem;">  
-    <img src="https://img.shields.io/badge/Dev%20Profile-Visit-blue?style=for-the-badge&logo=github" alt="Dev Profile" />  
-  </a>
-  <a href="https://stifhbl-css-playground.netlify.app" style="margin:0 1rem;">  
-    <img src="https://img.shields.io/badge/CSS%20Playground-Explore-green?style=for-the-badge&logo=css3" alt="CSS Playground" />  
-  </a>
-  <a href="https://pypi.org/project/big-O-test-library" style="margin:0 1rem;">  
-    <img src="https://img.shields.io/badge/Algo%20Comparator-PyPI-orange?style=for-the-badge&logo=python" alt="Algorithm Comparator" />  
-  </a>
-  <a href="https://github.com/S4WLAND/academic-record-manager" style="margin:0 1rem;">  
-    <img src="https://img.shields.io/badge/Academic%20Manager-Run-cyan?style=for-the-badge&logo=sqlite" alt="Academic Manager" />  
+  <!-- One skillicons sprite, ordered: Front → Back → Data → CI/CD & Ops -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,typescript,react,angular,webpack,gulp,php,python,anaconda,django,nodejs,java,spring,mysql,mongodb,git,bitbucket,jenkins,selenium,docker,kubernetes,aws&perline=9" height="150"/>
   </a>
 </p>
 
----
-
-## 🎓 Education & Interests  
+<!-- ======= 3. Soft Skills ======= -->
+<details>
+<summary><b>🤝 Soft Skills</b></summary><br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Engineering-UNAL-red?style=for-the-badge&logo=universidad-nacional-colombia" alt="UNal" />
+  <!-- First row -->
+  <img src="https://img.shields.io/badge/System%20Architecture-Scalable-informational?style=flat" height="32"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Strong-orange?style=flat" height="32"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-Analytical-blueviolet?style=flat" height="32"/>
+  <img src="https://img.shields.io/badge/Teamwork-Collaborative-brightgreen?style=flat" height="32"/>
+  <br>
+  <!-- Second row -->
+  <img src="https://img.shields.io/badge/Design%20Patterns-SOLID-informational?style=flat" height="32"/>
+  <img src="https://img.shields.io/badge/SDLC-Lifecycle-blue?style=flat" height="32"/>
+  <img src="https://img.shields.io/badge/Agile-Scrum-0052CC?style=flat&logo=jira&logoColor=white" height="32"/>
 </p>
+</details>
 
-- Studying **Computer Engineering** at Universidad Nacional de Colombia (2020–Present)  
-- Passionate about **Software Architecture**, **AI/ML**, **Cloud Computing**, **Algorithm Design**  
+<!-- ======= 4. Featured Projects ======= -->
+<h2 align="center">🚀 Featured Projects</h2>
 
----
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/S4WLAND/E-commerce-Microservices-Platform-Project">
+        <img src="https://skillicons.dev/icons?i=java,spring" height="28"/> <strong>E-commerce Microservices Platform</strong>
+      </a><br>
+      Spring Boot 3 · K8s · RabbitMQ · Grafana
+    </td>
+    <td>
+      <a href="https://github.com/S4WLAND/Django-E-commerce-API-Platform-project">
+        <img src="https://skillicons.dev/icons?i=python,django" height="28"/> <strong>Django REST API Platform</strong>
+      </a><br>
+      DRF · MongoEngine · JWT · AWS · Celery
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://pypi.org/project/big-O-test-library">
+        <img src="https://skillicons.dev/icons?i=python" height="28"/> <strong>big-O-test-library</strong>
+      </a><br>
+      Instantly compares algorithmic complexity
+    </td>
+    <td>
+      <a href="https://github.com/S4WLAND/QA-Automation-Framework-project">
+        <img src="https://skillicons.dev/icons?i=typescript,nodejs" height="28"/> <strong>QA Automation Framework</strong>
+      </a><br>
+      Playwright + Jest for end-to-end tests
+    </td>
+  </tr>
+</table>
 
-## 📫 Connect with me  
+<!-- ======= 5. Education & Interests ======= -->
+<details>
+<summary><b>🎓 Education & Interests</b></summary>
+
+* **BSc Computer Engineering** — National University of Colombia (2020 – present)  
+* Interests: Software Architecture · AI/ML · Cloud Computing · Algorithm Design  
+
+</details>
+
+<!-- ======= 6. Get in Touch ======= -->
+<h2 align="center">📭 Get in Touch</h2>
 <p align="center">
-  <a href="mailto:stifhlife@gmail.com">
-    <img src="https://img.shields.io/badge/Email-stifhlife@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/stifhbl">
-    <img src="https://img.shields.io/badge/LinkedIn-stifhbl-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+  <a href="mailto:stifhlife@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48"/></a>
+  <a href="https://www.linkedin.com/in/stifhbl"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
 </p>
