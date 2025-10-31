@@ -12,11 +12,14 @@
 <!-- ======= 2. Tech Stack ======= -->
 <h2 align="center">🧰 Tech Stack</h2>
 <p align="center">
-  <!-- One skillicons sprite, ordered: Front → Back → Data → CI/CD & Ops -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,typescript,react,angular,webpack,gulp,php,python,anaconda,django,nodejs,java,spring,mysql,mongodb,git,bitbucket,jenkins,selenium,docker,kubernetes,aws&perline=9" height="150"/>
+    <img
+      src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,typescript,react,angular,vue,vite,php,python,anaconda,django,nodejs,java,spring,dotnet,cs,mysql,mongodb,selenium,git,bitbucket,githubactions,jenkins,docker,kubernetes,aws&perline=10"
+      height="150"
+    />
   </a>
 </p>
+
 
 <!-- ======= 3. Soft Skills ======= -->
 <details>
