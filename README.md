@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/S4WLAND">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4WLAND&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4WLAND&layout=compact&langs_count=10&theme=dark&hide_border=true" />
+
   </a>
 </p>
 
