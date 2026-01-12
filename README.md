@@ -103,7 +103,7 @@ const stifh = {
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=S4WLAND&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF" height="180" />
   </a>
   <a href="https://github.com/S4WLAND" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S4WLAND&layout=compact&langs_count=8&theme=gotham&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=FFFFFF" height="180" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S4WLAND&layout=compact&langs_count=15&theme=gotham&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=FFFFFF" height="180" />
   </a>
 </p>
 
