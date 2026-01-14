@@ -118,7 +118,7 @@ const stifh = {
 <!-- ======= Featured Projects ======= -->
 ## 🚀 Featured Projects
 
-<table>
+<table align="center">
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/S4WLAND/E-commerce-Microservices-Platform-Project" target="_blank">
