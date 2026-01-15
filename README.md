@@ -56,28 +56,28 @@ const stifh = {
 ### Backend & Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,spring,dotnet&theme=dark" height="50" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,spring,dotnet,postman&theme=dark" height="50" />
   </a>
 </p>
 
 ### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,react,astro,tailwind,sass&theme=dark" height="50" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,astro,threejs,vite,vitest,html,css,sass,tailwind&theme=dark" height="50" />
   </a>
 </p>
 
 ### Databases & Cloud
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp&theme=dark" height="50" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,redis,aws,gcp&theme=dark" height="50" />
   </a>
 </p>
 
 ### DevOps & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,jenkins,linux&theme=dark" height="50" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,githubactions,jenkins,selenium,ubuntu,bash,powershell&theme=dark" height="50" />
   </a>
 </p>
 
