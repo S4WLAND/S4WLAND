@@ -70,7 +70,7 @@ const stifh = {
 ### Databases & Cloud
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,redis,aws,gcp&theme=dark" height="50" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,redis,aws,gcp,azure&theme=dark" height="50" />
   </a>
 </p>
 
