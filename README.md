@@ -1,121 +1,83 @@
-<!-- ======= Header ======= -->
+<!-- ===================================================== -->
+<!-- ================  RECRUITER SUMMARY  ================ -->
+<!-- ===================================================== -->
+
+<h1 align="center">Stifh Barragan</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Stifh+BL;Software+Engineer+%26+Architect;System+Design+%7C+Distributed+Systems;Building+systems+that+scale" alt="Typing SVG" />
+  <b>Software Architect & Engineer</b> · Solutions Architecture and AI-First Systems<br>
+  <sub>6+ years taking systems from the first client conversation to production</sub>
+</p>
+
+<p align="center">
+  <a href="./stifh-barragan-software-architect-cv.pdf"><img src="https://img.shields.io/badge/Download_CV-PDF-00FF7F?style=for-the-badge&logo=adobeacrobatreader&logoColor=00FF7F&labelColor=0D1117" alt="Download CV" height="40"/></a>
+</p>
+
+<p align="center">
+  <a href="https://stifhbl.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-stifhbl.com-00FF7F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/stifhbl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-stifhbl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:stifhlife@gmail.com"><img src="https://img.shields.io/badge/Email-stifhlife@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-<!-- ======= About ======= -->
 ## 👨‍💻 About Me
 
-I design and build systems that scale. With 6+ years in software development, my focus has shifted from writing code to **architecting solutions**—translating business requirements into technical systems that work.
+I design and build systems that scale. With **6+ years** in software development, my focus has shifted from writing code to **architecting solutions**: requirements interpretation, domain and data modeling, API contract design, and the architecture and infrastructure decisions behind them. Currently **Software Architect at VencejosLab**, with AI agents as part of the toolchain.
 
-```typescript
-const stifh = {
-  role: "Software Engineer & Architect",
-  focus: ["System Design", "Distributed Systems", "Clean Architecture"],
-  currentResearch: "Bio-inspired protocols for decentralized P2P networks",
-  languages: ["JavaScript/TypeScript", "Python", "Java", "C#", "SQL"],
-  typingSpeed: "114 WPM"
-};
-```
-
-- 🏗️ Migrating legacy systems to modern architectures
+- 🏗️ Migrating legacy systems (.NET Framework, PHP, Java 8) to modern, layered architectures
+- 🏢 Architecting **multi-tenant** platforms with versioned API contracts and IAM design
+- ⚡ Designing **event-driven** async processing: queues, workers, idempotency, race conditions
 - 📐 Designing database models and API specifications
 - 🔄 Orchestrating CI/CD pipelines that improve team velocity
-- 📝 Researching distributed systems (Physarum-inspired routing & CRDTs)
+- 📝 Researching distributed systems (Physarum-inspired routing & CRDTs) and LoRA / PEFT
 
 ---
 
-<!-- ======= Core Competencies ======= -->
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **Software Architect** | VencejosLab · Corrientes, AR (Hybrid) | Feb 2026 – Present |
+| **Software Engineer** | VencejosLab · Corrientes, AR (Hybrid) | Jul 2025 – Feb 2026 |
+| **Independent Consultant · Software Engineer** | Remote | Jun 2021 – Jul 2025 |
+| **Software Developer** | Textknow · Bogotá, CO | May 2018 – Aug 2020 |
+
+---
+
 ## 🎯 Core Competencies
 
 <p align="center">
   <img src="https://img.shields.io/badge/System_Design-Scalable_Architectures-0D1117?style=for-the-badge&logo=blueprint&logoColor=00FF7F" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-SOLID_Principles-0D1117?style=for-the-badge&logo=buffer&logoColor=00FF7F" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-SOLID_&_DDD-0D1117?style=for-the-badge&logo=buffer&logoColor=00FF7F" />
   <img src="https://img.shields.io/badge/Distributed_Systems-P2P_Networks-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00FF7F" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Multi--Tenant-SaaS_Platforms-0D1117?style=for-the-badge&logo=auth0&logoColor=00FF7F" />
+  <img src="https://img.shields.io/badge/Event--Driven-Queues_&_Workers-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=00FF7F" />
   <img src="https://img.shields.io/badge/Database_Modeling-SQL_&_NoSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF7F" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/API_Design-OpenAPI_REST_gRPC-0D1117?style=for-the-badge&logo=swagger&logoColor=00FF7F" />
+  <img src="https://img.shields.io/badge/IAM-OAuth_2.0_·_OIDC_·_JWT-0D1117?style=for-the-badge&logo=openid&logoColor=00FF7F" />
   <img src="https://img.shields.io/badge/CI/CD-Pipeline_Orchestration-0D1117?style=for-the-badge&logo=githubactions&logoColor=00FF7F" />
 </p>
 
 ---
 
-<!-- ======= Tech Stack ======= -->
 ## 🛠️ Tech Stack
 
-### Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php&theme=dark" height="50" />
-  </a>
-</p>
-
-### Backend & Frameworks
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,spring,dotnet,postman&theme=dark" height="50" />
-  </a>
-</p>
-
-### Frontend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,astro,threejs,vite,vitest,html,css,sass,tailwind&theme=dark" height="50" />
-  </a>
-</p>
-
-### Databases & Cloud
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,redis,aws,gcp,azure&theme=dark" height="50" />
-  </a>
-</p>
-
-### DevOps & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,githubactions,jenkins,selenium,ubuntu,bash,powershell&theme=dark" height="50" />
-  </a>
-</p>
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,php&theme=dark" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,fastapi,django,postman&theme=dark" height="40" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,astro,threejs,vite,vitest,html,css,sass,tailwind&theme=dark" height="40" /> |
+| **Data & Cloud** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,redis,aws,gcp,azure&theme=dark" height="40" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,nginx,grafana,jest,selenium,git,linux,ubuntu,bash,powershell&theme=dark" height="40" /> |
+| **Also** | ![Fastify](https://img.shields.io/badge/Fastify-0D1117?style=flat-square&logo=fastify&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927) ![Traefik](https://img.shields.io/badge/Traefik-0D1117?style=flat-square&logo=traefikproxy&logoColor=24A1C1) ![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=2EAD33) ![OpenAPI](https://img.shields.io/badge/OpenAPI-0D1117?style=flat-square&logo=openapiinitiative&logoColor=6BA539) ![JWT](https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=white) |
 
 ---
 
-<!-- ======= AI-First Development ======= -->
-## 🤖 AI-First Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-AI_Coding-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-GPT_Powered-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-00ADD8?style=for-the-badge&logo=protocol&logoColor=white" />
-</p>
-
----
-
-<!-- ======= GitHub Stats ======= -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/S4WLAND" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=S4WLAND&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF" height="180" />
-  </a>
-  <a href="https://github.com/S4WLAND" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S4WLAND&layout=compact&langs_count=15&theme=gotham&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=FFFFFF" height="180" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=S4WLAND&theme=dark&hide_border=true&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=FF6B6B&currStreakLabel=00FF7F&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
-<!-- ======= Featured Projects ======= -->
 ## 🚀 Featured Projects
 
 <table align="center">
@@ -142,7 +104,7 @@ const stifh = {
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/S4WLAND/QA-Automation-Framework-project" target="_blank">
-        <img src="https://skillicons.dev/icons?i=typescript,nodejs&theme=dark" height="28"/>
+        <img src="https://skillicons.dev/icons?i=ts,nodejs&theme=dark" height="28"/>
         <br><strong>QA Automation Framework</strong>
       </a>
       <br>
@@ -155,8 +117,76 @@ const stifh = {
 
 ---
 
-<!-- ======= Research ======= -->
-## 📚 Current Research
+## 🎓 Education & Certifications
+
+**🎓 B.Eng. Computer and Systems Engineering**  
+Universidad Nacional de Colombia · 2020 – In progress
+
+**📜 Professional Certifications**
+- 🏛️ **University of Alberta** — Software Design and Architecture Specialization
+- 🔵 **IBM** — Applied DevOps Engineering Professional Certificate
+- ☕ **IBM** — Java Developer Professional Certificate
+
+<br>
+
+<!-- ===================================================== -->
+<!-- ===============  HOW I BUILD (CREATIVE)  ============ -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=760&lines=From+client+conversation+to+production;Requirements+%E2%86%92+Domain+%E2%86%92+Contracts+%E2%86%92+Architecture;Multi-Tenant+%C2%B7+Event-Driven+%C2%B7+DDD;AI+agents+as+part+of+the+toolchain;Building+systems+that+scale" alt="Typing SVG" />
+</p>
+
+## 🧭 How I Build
+
+```mermaid
+flowchart LR
+    A["🗣️ Client<br/>conversation"] --> B["📋 Requirements<br/>& user stories"]
+    B --> C["🧩 Domain &<br/>data model"]
+    C --> D["📜 API contracts<br/>& IAM"]
+    D --> E["🏗️ Architecture &<br/>infrastructure"]
+    E --> F["🚀 Verified<br/>release"]
+    F -. feedback .-> B
+    G(["🤖 AI agents<br/>scoped permissions"]) -.-> B
+    G -.-> D
+    G -.-> F
+```
+
+```typescript
+const stifh = {
+  role: "Software Architect & Engineer",
+  company: "VencejosLab",
+  focus: ["System Design", "Distributed Systems", "Clean Architecture", "Multi-Tenant", "Event-Driven"],
+  principle: "The simplest solution that carries the expected growth",
+  currentResearch: ["Bio-inspired protocols for decentralized P2P networks", "LoRA / PEFT"],
+  languages: ["JavaScript/TypeScript", "Python", "Java", "C#", "SQL"],
+  spoken: ["Spanish (native)", "English (B2)"],
+  typingSpeed: "114 WPM",
+};
+```
+
+### 🤖 AI-First Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-AI_Coding-8B5CF6?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-GPT_Powered-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-00ADD8?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+</p>
+
+<details>
+<summary><b>🧩 Agentic SDLC Framework (internal product)</b></summary>
+<br>
+
+CLI framework standardizing how client projects are started, tracked and delivered:
+
+- 🧱 **Four separated layers** with clear responsibilities
+- 🏷️ **State derived from typed commits** through CI
+- 🧠 **Per-layer instructions** routing AI tools to the right context
+
+</details>
+
+### 📚 Current Research
 
 <details>
 <summary><b>🔬 Flow-Based Data Protocol: Bio-Inspired Distributed Systems</b></summary>
@@ -173,39 +203,40 @@ Developing a theoretical framework exploring how biological organisms like **Phy
 
 </details>
 
----
-
-<!-- ======= Education & Certifications ======= -->
-## 🎓 Education & Certifications
-
 <details>
-<summary><b>📖 Click to expand</b></summary>
+<summary><b>🧠 Parameter-Efficient Fine-Tuning of Foundation Models</b></summary>
 <br>
 
-**🎓 B.S. Computer Engineering (Systems Engineering)**  
-Universidad Nacional de Colombia · 2020 - 2026
-
-**📜 Professional Certifications:**
-- 🏛️ **University of Alberta** — Software Design and Architecture Specialization
-- 🔵 **IBM** — Applied DevOps Engineering Professional Certificate
-- 🟡 **IBM** — Full-Stack JavaScript Developer Professional Certificate
-- ☕ **IBM** — Java Developer Professional Certificate
-- 🐍 **Microsoft** — Python Development Professional Certificate
+Research on adapting foundation models with **LoRA / PEFT** techniques.
 
 </details>
 
 ---
 
-<!-- ======= Contact ======= -->
-## 📬 Let's Connect
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://stifhbl.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-stifhbl.com-00FF7F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/stifhbl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-stifhbl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:stifhlife@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-stifhlife@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/S4WLAND" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S4WLAND&theme=github_dark" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/S4WLAND" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S4WLAND&theme=github_dark" height="165" alt="Top Languages by Commit" />
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=S4WLAND&theme=dark&hide_border=true&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=FF6B6B&currStreakLabel=00FF7F&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S4WLAND/S4WLAND/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S4WLAND/S4WLAND/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/S4WLAND/S4WLAND/output/github-snake-dark.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=S4WLAND&color=00FF7F&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
@@ -214,3 +245,5 @@ Universidad Nacional de Colombia · 2020 - 2026
 <p align="center">
   <i>"The best code is clean and simple—and it's the same with systems architecture."</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF7F&height=110&section=footer" width="100%" alt="footer" />
