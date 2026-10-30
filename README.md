@@ -69,7 +69,7 @@ I design and build systems that scale. With **6+ years** in software development
 
 | | |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,php&theme=dark" height="40" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs&theme=dark" height="40" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,fastapi,django,postman&theme=dark" height="40" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,astro,threejs,vite,vitest,html,css,sass,tailwind&theme=dark" height="40" /> |
 | **Data & Cloud** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,redis,aws,gcp,azure&theme=dark" height="40" /> |
@@ -120,7 +120,7 @@ I design and build systems that scale. With **6+ years** in software development
 ## 🎓 Education & Certifications
 
 **🎓 B.Eng. Computer and Systems Engineering**  
-Universidad Nacional de Colombia · 2020 – In progress
+Universidad Nacional de Colombia · 2020 – 2026
 
 **📜 Professional Certifications**
 - 🏛️ **University of Alberta** — Software Design and Architecture Specialization
@@ -165,15 +165,6 @@ const stifh = {
 };
 ```
 
-### 🤖 AI-First Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-AI_Coding-8B5CF6?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-GPT_Powered-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-00ADD8?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
-</p>
-
 <details>
 <summary><b>🧩 Agentic SDLC Framework (internal product)</b></summary>
 <br>
@@ -216,12 +207,7 @@ Research on adapting foundation models with **LoRA / PEFT** techniques.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/S4WLAND" target="_blank">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S4WLAND&theme=github_dark" height="165" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/S4WLAND" target="_blank">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S4WLAND&theme=github_dark" height="165" alt="Top Languages by Commit" />
-  </a>
+  <img src="https://raw.githubusercontent.com/S4WLAND/S4WLAND/main/metrics.svg" alt="GitHub metrics (public and private repositories)" />
 </p>
 
 <p align="center">
