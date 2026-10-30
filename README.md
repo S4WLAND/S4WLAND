@@ -243,7 +243,7 @@ Research on adapting foundation models with **LoRA / PEFT** techniques.
 </p>
 
 <p align="center">
-  <i>"The best code is clean and simple—and it's the same with systems architecture."</i>
+  <i>"Every branch eventually merges into the same truth: the best code is the code you delete — or never commit."</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF7F&height=110&section=footer" width="100%" alt="footer" />
