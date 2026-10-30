@@ -17,7 +17,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Classic PAT with `repo` and `read:user` scopes so private repositories are counted
+          # Fine-grained PAT: all repositories, "Metadata: Read-only" only.
+          # Enough for private repository languages and counts; it cannot read code.
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.svg
@@ -29,6 +30,7 @@ jobs:
           repositories_affiliations: owner
           plugin_languages: yes
           plugin_languages_ignored: php
+          plugin_languages_indepth: no
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
