@@ -152,18 +152,20 @@ flowchart LR
     G -.-> F
 ```
 
-```typescript
-const stifh = {
-  role: "Software Architect & Engineer",
-  company: "VencejosLab",
-  focus: ["System Design", "Distributed Systems", "Clean Architecture", "Multi-Tenant", "Event-Driven"],
-  principle: "The simplest solution that carries the expected growth",
-  currentResearch: ["Bio-inspired protocols for decentralized P2P networks", "LoRA / PEFT"],
-  languages: ["JavaScript/TypeScript", "Python", "Java", "C#", "SQL"],
-  spoken: ["Spanish (native)", "English (B2)"],
-  typingSpeed: "114 WPM",
-};
-```
+### ⚙️ Principles
+
+| | |
+|---|---|
+| 🎯 **Simplicity first** | The simplest solution that carries the expected growth |
+| 🧩 **Domain before code** | Requirements and domain model drive the architecture, not the framework |
+| 📜 **Contracts are the product** | Versioned APIs, explicit access levels, migrations as the only path for change |
+| ⚡ **Designed for load** | Async by default, idempotent operations, race conditions handled explicitly |
+| ✅ **Verified releases** | Environment parity and CI as the single source of truth |
+| 🤖 **AI with guardrails** | Agents operate with scoped permissions and the right context per layer |
+
+<p align="center">
+  <sub>🌎 Spanish (native) · English (B2) &nbsp;|&nbsp; ⌨️ 114 WPM</sub>
+</p>
 
 <details>
 <summary><b>🧩 Agentic SDLC Framework (internal product)</b></summary>
