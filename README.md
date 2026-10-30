@@ -25,7 +25,7 @@
 
 I design and build systems that scale. With **6+ years** in software development, my focus has shifted from writing code to **architecting solutions**: requirements interpretation, domain and data modeling, API contract design, and the architecture and infrastructure decisions behind them. Currently **Software Architect at VencejosLab**, with AI agents as part of the toolchain.
 
-- 🏗️ Migrating legacy systems (.NET Framework, PHP, Java 8) to modern, layered architectures
+- 🏗️ Migrating legacy systems (.NET Framework, Java 8) to modern, layered architectures
 - 🏢 Architecting **multi-tenant** platforms with versioned API contracts and IAM design
 - ⚡ Designing **event-driven** async processing: queues, workers, idempotency, race conditions
 - 📐 Designing database models and API specifications
@@ -82,7 +82,17 @@ I design and build systems that scale. With **6+ years** in software development
 
 <table align="center">
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
+      <a href="https://github.com/S4WLAND/wodlie-engine" target="_blank">
+        <img src="https://skillicons.dev/icons?i=ts,nodejs,docker,githubactions&theme=dark" height="28"/>
+        <br><strong>wodlie-engine</strong>
+      </a>
+      <br>
+      <sub>TypeScript CLI · Agentic SDLC Framework</sub>
+      <br>
+      <sub>🤖 Business, infra, dev & core layers for AI-operated projects</sub>
+    </td>
+    <td width="50%" align="center">
       <a href="https://github.com/S4WLAND/E-commerce-Microservices-Platform-Project" target="_blank">
         <img src="https://skillicons.dev/icons?i=java,spring,kubernetes&theme=dark" height="28"/>
         <br><strong>E-commerce Microservices</strong>
@@ -92,7 +102,9 @@ I design and build systems that scale. With **6+ years** in software development
       <br>
       <sub>🏗️ Event-driven microservices</sub>
     </td>
-    <td width="33%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <a href="https://pypi.org/project/big-O-test-library" target="_blank">
         <img src="https://skillicons.dev/icons?i=python&theme=dark" height="28"/>
         <br><strong>big-O-test-library</strong>
@@ -102,7 +114,7 @@ I design and build systems that scale. With **6+ years** in software development
       <br>
       <sub>📈 Compare complexity instantly</sub>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/S4WLAND/QA-Automation-Framework-project" target="_blank">
         <img src="https://skillicons.dev/icons?i=ts,nodejs&theme=dark" height="28"/>
         <br><strong>QA Automation Framework</strong>
@@ -168,7 +180,7 @@ flowchart LR
 </p>
 
 <details>
-<summary><b>🧩 Agentic SDLC Framework (internal product)</b></summary>
+<summary><b>🧩 Agentic SDLC Framework — <a href="https://github.com/S4WLAND/wodlie-engine">wodlie-engine</a></b></summary>
 <br>
 
 CLI framework standardizing how client projects are started, tracked and delivered:
