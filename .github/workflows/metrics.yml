@@ -6,6 +6,9 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths:
+      - ".github/scripts/languages-card.mjs"
+      - ".github/workflows/metrics.yml"
 
 permissions:
   contents: write
@@ -13,26 +16,30 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
+          node-version: 22
+
+      - name: Render languages card
+        run: node .github/scripts/languages-card.mjs
+        env:
           # Fine-grained PAT: all repositories, "Metadata: Read-only" only.
-          # Enough for private repository languages and counts; it cannot read code.
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics.svg
-          user: S4WLAND
-          template: classic
-          base: header, activity, community, repositories
-          config_timezone: America/Argentina/Buenos_Aires
-          config_display: large
-          repositories_affiliations: owner
-          plugin_languages: yes
-          plugin_languages_ignored: php
-          plugin_languages_indepth: no
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          IGNORED_LANGUAGES: PHP
+          OUTPUT: metrics.svg
+
+      - name: Commit card
+        run: |
+          git add metrics.svg
+          if git diff --cached --quiet; then
+            echo "metrics.svg unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(metrics): update languages card"
+          git push
