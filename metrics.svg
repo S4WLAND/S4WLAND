@@ -13,26 +13,26 @@
   <text x="25" y="35" class="title">Most Used Languages</text>
   <text x="515" y="35" class="sub" text-anchor="end">27 repositories · public &amp; private</text>
   <clipPath id="bar"><rect x="25" y="62" width="490" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#bar)" class="bar"><rect x="25.00" y="62" width="264.79" height="10" fill="#3178c6"/><rect x="289.79" y="62" width="119.92" height="10" fill="#f1e05a"/><rect x="409.71" y="62" width="26.61" height="10" fill="#e34c26"/><rect x="436.32" y="62" width="23.22" height="10" fill="#663399"/><rect x="459.54" y="62" width="11.56" height="10" fill="#41b883"/><rect x="471.09" y="62" width="9.54" height="10" fill="#ff5a03"/><rect x="480.63" y="62" width="5.35" height="10" fill="#b07219"/><rect x="485.98" y="62" width="5.24" height="10" fill="#3D6117"/></g>
+  <g clip-path="url(#bar)" class="bar"><rect x="25.00" y="62" width="259.90" height="10" fill="#3178c6"/><rect x="284.90" y="62" width="122.23" height="10" fill="#f1e05a"/><rect x="407.13" y="62" width="27.13" height="10" fill="#e34c26"/><rect x="434.26" y="62" width="23.67" height="10" fill="#663399"/><rect x="457.92" y="62" width="11.78" height="10" fill="#41b883"/><rect x="469.70" y="62" width="9.73" height="10" fill="#ff5a03"/><rect x="479.43" y="62" width="5.45" height="10" fill="#b07219"/><rect x="484.88" y="62" width="5.34" height="10" fill="#3D6117"/></g>
     <g transform="translate(25,100)" class="item" style="animation-delay:150ms">
       <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
       <text x="18" y="0" class="lang">TypeScript</text>
-      <text x="225" y="0" class="pct" text-anchor="end">54.0%</text>
+      <text x="225" y="0" class="pct" text-anchor="end">53.0%</text>
     </g>
     <g transform="translate(285,100)" class="item" style="animation-delay:270ms">
       <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
       <text x="18" y="0" class="lang">JavaScript</text>
-      <text x="225" y="0" class="pct" text-anchor="end">24.5%</text>
+      <text x="225" y="0" class="pct" text-anchor="end">24.9%</text>
     </g>
     <g transform="translate(25,126)" class="item" style="animation-delay:390ms">
       <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
       <text x="18" y="0" class="lang">HTML</text>
-      <text x="225" y="0" class="pct" text-anchor="end">5.4%</text>
+      <text x="225" y="0" class="pct" text-anchor="end">5.5%</text>
     </g>
     <g transform="translate(285,126)" class="item" style="animation-delay:510ms">
       <circle cx="5" cy="-4" r="5" fill="#663399"/>
       <text x="18" y="0" class="lang">CSS</text>
-      <text x="225" y="0" class="pct" text-anchor="end">4.7%</text>
+      <text x="225" y="0" class="pct" text-anchor="end">4.8%</text>
     </g>
     <g transform="translate(25,152)" class="item" style="animation-delay:630ms">
       <circle cx="5" cy="-4" r="5" fill="#41b883"/>
@@ -42,7 +42,7 @@
     <g transform="translate(285,152)" class="item" style="animation-delay:750ms">
       <circle cx="5" cy="-4" r="5" fill="#ff5a03"/>
       <text x="18" y="0" class="lang">Astro</text>
-      <text x="225" y="0" class="pct" text-anchor="end">1.9%</text>
+      <text x="225" y="0" class="pct" text-anchor="end">2.0%</text>
     </g>
     <g transform="translate(25,178)" class="item" style="animation-delay:870ms">
       <circle cx="5" cy="-4" r="5" fill="#b07219"/>
