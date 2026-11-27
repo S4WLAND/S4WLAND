@@ -13,7 +13,7 @@
   <text x="25" y="35" class="title">Most Used Languages</text>
   <text x="515" y="35" class="sub" text-anchor="end">27 repositories · public &amp; private</text>
   <clipPath id="bar"><rect x="25" y="62" width="490" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#bar)" class="bar"><rect x="25.00" y="62" width="296.51" height="10" fill="#3178c6"/><rect x="321.51" y="62" width="94.67" height="10" fill="#f1e05a"/><rect x="416.18" y="62" width="22.92" height="10" fill="#663399"/><rect x="439.09" y="62" width="21.99" height="10" fill="#e34c26"/><rect x="461.08" y="62" width="20.79" height="10" fill="#41b883"/><rect x="481.87" y="62" width="4.90" height="10" fill="#3D6117"/><rect x="486.77" y="62" width="4.77" height="10" fill="#A97BFF"/><rect x="491.54" y="62" width="4.42" height="10" fill="#b07219"/></g>
+  <g clip-path="url(#bar)" class="bar"><rect x="25.00" y="62" width="296.60" height="10" fill="#3178c6"/><rect x="321.60" y="62" width="94.63" height="10" fill="#f1e05a"/><rect x="416.22" y="62" width="22.91" height="10" fill="#663399"/><rect x="439.13" y="62" width="21.98" height="10" fill="#e34c26"/><rect x="461.11" y="62" width="20.78" height="10" fill="#41b883"/><rect x="481.89" y="62" width="4.90" height="10" fill="#3D6117"/><rect x="486.79" y="62" width="4.76" height="10" fill="#A97BFF"/><rect x="491.55" y="62" width="4.42" height="10" fill="#b07219"/></g>
     <g transform="translate(25,100)" class="item" style="animation-delay:150ms">
       <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
       <text x="18" y="0" class="lang">TypeScript</text>
